@@ -19,3 +19,9 @@ Untracked files:
 commit 5bee1f971478357a0988ad0f9b3164e97014e2e3 (HEAD -> master)
 Author: Delonte Roberts <dr929423@ohio.edu>
 Date:   Wed Jan 24 19:00:17 2024 -0500
+
+the repository holds my files
+yes they were reflected 
+it asks for my github username and password
+yes they were reflected 
+.  ..  git-lab-2  Labs
